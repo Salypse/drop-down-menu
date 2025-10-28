@@ -1,0 +1,19 @@
+{
+  "name": "drop-down-menu",
+  "version": "1.0.0",
+  "description": "Create a drop down menu using HTML and JS",
+  "main": "drop-down-menu.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Salypse/drop-down-menu.git"
+  },
+  "author": "Salypse",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Salypse/drop-down-menu/issues"
+  },
+  "homepage": "https://github.com/Salypse/drop-down-menu#readme"
+}

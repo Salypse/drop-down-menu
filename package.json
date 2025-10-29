@@ -1,5 +1,5 @@
 {
-  "name": "drop-down-menu",
+  "name": "@salypse/drop-down-menu",
   "version": "1.0.0",
   "description": "Create a drop down menu using HTML and JS",
   "main": "drop-down-menu.js",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Salypse/drop-down-menu/issues"
   },
-  "homepage": "https://github.com/Salypse/drop-down-menu#readme"
+  "homepage": "https://github.com/Salypse/drop-down-menu#readme",
+  "dependencies": {
+    "@salypse/drop-down-menu": "^1.0.0"
+  }
 }

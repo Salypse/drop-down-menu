@@ -1,4 +1,6 @@
-function dropDownMenu(dropDownMenu) {
+module.exports = DropDownMenu
+
+function DropDownMenu(dropDownMenu) {
     this.dropDownMenu = dropDownMenu
     this.dropDownHeader = dropDownMenu.children[0]
     this.dropDownItems = dropDownMenu.children[1]
@@ -30,6 +32,3 @@ function dropDownMenu(dropDownMenu) {
         }
     }
 }
-
-const testDropDownDiv1 = document.querySelector(".drop-down-menu")
-let testMenu1 =  new dropDownMenu(testDropDownDiv1)
